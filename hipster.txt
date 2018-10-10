@@ -1,7 +1,0 @@
-Lorem Ipsum text for git replace it.
-
-a second line for my demo.
-
-third line!
-
-4th!
