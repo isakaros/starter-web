@@ -15,3 +15,5 @@ Add more lines
 ###Copyright
 
 2018 Git.training
+
+Please fork tis repo
