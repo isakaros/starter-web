@@ -17,3 +17,5 @@ Add more lines
 2018 Git.training
 
 Please fork tis repo
+
+Adding rebasing comment
