@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 add more lines
 
 Add more lines
+
+###Copyright
+
+2018 Git.training
